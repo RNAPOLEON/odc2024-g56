@@ -1,0 +1,16 @@
+README:
+ Integrantes:
+ - Yaco Napoleon Romano | Legajo: 42979971
+ - Muriel Bustos | Legajo : 43695143
+ - Paula Rodriguez | Legajo : 43636950
+
+Ejercicio 1 resuelto.
+Ejericico 2 resuelto.
+
+Historia del ejercicio n° 1:
+ Un hombre en su oficina fuma un cigarrillo, cuando de repente siente un brusco cambio de temperatura en el ambiente. Con su cuerpo temblando y frio se da la vuelta, y encuentra a la más temida muerte que ha venido a por él...
+
+Historia del ejercicio n° 2:
+Un hombre en su oficina fuma un cigarrillo, cuando de repente siente un brusco cambio de temperatura en el ambiente. Con su cuerpo temblando y frio se da la vuelta, y encuentra a la más temida muerte que ha venido a por él. En un pestañeo la muerte se acerca al hombre y lo mata, llevándose así su alma al más allá.
+
+ La muerte se mueve con la letra "a" hacia la izquierda y con la letra "d" hacia la derecha. Las luces de los edificios y del foco de la oficina se mueven con la tecla espacio. Cuando la muerte toque a Nick, este morirá.
